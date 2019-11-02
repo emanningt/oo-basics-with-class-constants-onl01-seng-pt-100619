@@ -16,6 +16,6 @@ class Shoe
   def brand=(brand, size)
     @brand = brand
     @size = size
-  end
+  
 
 end
